@@ -1,2 +1,0 @@
-pyTelegramBotAPI==4.16.1
-sqlite3
